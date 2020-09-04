@@ -1,0 +1,33 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    color: #E20000;
+}
+p{
+    color: #6A6A6A;
+}
+#contacto{
+    background-image: url(../images/fondo-contacto.png);
+    background-size: 100%;
+}
+#contacto main{
+    height: 83vh;
+}
+nav .nav-link{
+    color: #282828;
+}
+nav .active{
+    border: 1px solid #E20000;
+    border-radius: 20px;
+}
+footer{
+    color: #E20000;
+}
+footer a{
+    color: #E20000;
+}
+footer .whatsapp{
+    color: white;
+    background-color: #370A6D;
+}
